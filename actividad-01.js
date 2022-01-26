@@ -11,3 +11,10 @@ class B {
         this.bar = bar;
     }
 }
+
+class C {
+      constructor(foo, bar){
+        this.foo = foo;
+        this.bar = bar;
+    }
+}
